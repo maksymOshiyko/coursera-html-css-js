@@ -1,2 +1,1 @@
-# coursera-html-css-js
-front end course
+coursera-front-end
